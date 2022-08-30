@@ -1,1 +1,1 @@
-My readme
+My manual readme
